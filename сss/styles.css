@@ -4,11 +4,12 @@
 .link {
   text-decoration: none;
 }
+
 button {
   cursor: pointer;
 }
 body {
-  font-family: "Roboto", font-family;
+  font-family: "Roboto", sans-serif;
   color: #2e2f42;
 }
 
@@ -16,7 +17,7 @@ body {
   font-family: Raleway;
   font-size: 18px;
   font-weight: 700;
-  line-height: 21px;
+  line-height: 1.16;
   letter-spacing: 0.54px;
   text-transform: uppercase;
   color: var(--IRIS, #4d5ae5);
@@ -29,34 +30,34 @@ body {
 .nav-link:focus {
   color: #404bbf;
 }
-.nav-link {
+.navigation-list {
   color: var(--SLATE, #434455);
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 1.33;
   letter-spacing: 0.32px;
 }
+
 .menu-list {
   color: var(--NAVY-BLUE, #2e2f42);
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
-  line-height: 24px;
+  line-height: 1.33;
   letter-spacing: 0.32px;
 }
 /* Header steles=============================== */
 /* MAin Content */
-.page-header {
-}
+
 .main-h1 {
   color: var(--WHITE, #fff);
   font-family: Roboto;
   font-size: 56px;
   font-weight: 700;
-  line-height: 60px;
+  line-height: 1.07;
   letter-spacing: 1.12px;
   background: var(--NAVY-BLUE, #2e2f42);
 }
@@ -66,7 +67,7 @@ body {
   font-family: Roboto;
   font-size: 16px;
   font-weight: 500;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.64px;
 }
 .Order-service-but:hover,
@@ -81,7 +82,7 @@ body {
   font-size: 36px;
   font-style: normal;
   font-weight: 700;
-  line-height: 40px;
+  line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
@@ -90,7 +91,7 @@ body {
   font-family: Roboto;
   font-size: 20px;
   font-weight: 500;
-  line-height: 24px;
+  line-height: 1.2;
   letter-spacing: 0.4px;
 }
 .strategy-1 {
@@ -98,7 +99,7 @@ body {
   font-family: Roboto;
   font-size: 16px;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.32px;
 }
 .our-team {
@@ -106,7 +107,7 @@ body {
   font-family: Roboto;
   font-size: 36px;
   font-weight: 700;
-  line-height: 40px;
+  line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
@@ -115,7 +116,7 @@ body {
   font-family: Roboto;
   font-size: 20px;
   font-weight: 500;
-  line-height: 24px;
+  line-height: 1.2;
   letter-spacing: 0.4px;
 }
 .position {
@@ -123,7 +124,7 @@ body {
   font-family: Roboto;
   font-size: 16px;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.32px;
 }
 /* portfolio */
@@ -132,7 +133,7 @@ body {
   font-family: Roboto;
   font-size: 36px;
   font-weight: 700;
-  line-height: 40px;
+  line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
@@ -141,7 +142,7 @@ body {
   font-family: Roboto;
   font-size: 20px;
   font-weight: 500;
-  line-height: 24px;
+  line-height: 1.2;
   letter-spacing: 0.4px;
 }
 .app {
@@ -149,7 +150,7 @@ body {
   font-family: Roboto;
   font-size: 16px;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.32px;
 }
 .foter {
@@ -157,7 +158,7 @@ body {
   font-family: Roboto;
   font-size: 16px;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.32px;
   background: var(--NAVY-BLUE, #2e2f42);
 }
