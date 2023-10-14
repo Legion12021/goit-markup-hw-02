@@ -15,7 +15,7 @@ body {
 }
 span {
   color: var(--NAVY-BLUE, #2e2f42);
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 21px;
@@ -27,7 +27,7 @@ span {
 }
 
 .logotype {
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
@@ -44,7 +44,7 @@ span {
   color: #404bbf;
 }
 .navigation-list {
-  color: var(--SLATE, #434455);
+  color: #2e2f42;
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
@@ -106,6 +106,8 @@ span {
   color: var(--WHITE, #fff);
 }
 
+.advantages-item-2 {
+}
 .h2-advantages {
   color: var(--NAVY-BLUE, #2e2f42);
   font-family: Roboto;
@@ -115,6 +117,8 @@ span {
   line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
+}
+.section-3 {
 }
 .strategy {
   color: var(--NAVY-BLUE, #2e2f42);
@@ -188,7 +192,10 @@ span {
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
-.foter {
+.footer {
+  background-color: #2e2f42;
+}
+.foter-item {
   color: var(--CLOUD, #f4f4fd);
   font-family: Roboto;
   font-size: 16px;
