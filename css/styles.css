@@ -77,7 +77,7 @@ span {
 /* MAin Content */
 .hero-main {
 }
-.section-1 {
+.hero-sect {
   background: var(--NAVY-BLUE, #2e2f42);
 }
 .section-2 {
@@ -86,7 +86,7 @@ span {
   background: var(--CLOUD, #f4f4fd);
 }
 
-.main-h1 {
+.main-hero-head {
   color: var(--WHITE, #fff);
   font-family: Roboto;
   font-size: 56px;
@@ -96,7 +96,7 @@ span {
   text-align: center;
   background: var(--NAVY-BLUE, #2e2f42);
 }
-.Order-service-but {
+.order-service-but {
   color: var(--WHITE, #fff);
   background: var(--IRIS, #4d5ae5);
   font-family: "Roboto", sans-serif;
