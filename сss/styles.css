@@ -72,6 +72,14 @@ span {
 }
 /* Header steles=============================== */
 /* MAin Content */
+.section-1 {
+  background: var(--NAVY-BLUE, #2e2f42);
+}
+.section-2 {
+}
+.section-3 {
+  background: var(--CLOUD, #f4f4fd);
+}
 
 .main-h1 {
   color: var(--WHITE, #fff);
@@ -80,12 +88,13 @@ span {
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 1.12px;
+  text-align: center;
   background: var(--NAVY-BLUE, #2e2f42);
 }
 .Order-service-but {
   color: var(--WHITE, #fff);
   background: var(--IRIS, #4d5ae5);
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -131,6 +140,10 @@ span {
   line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
+  text-align: center;
+}
+.our-team-item {
+  background-color: #ffffff;
 }
 .teamets {
   color: var(--NAVY-BLUE, #2e2f42);
@@ -157,6 +170,7 @@ span {
   line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
+  text-align: center;
 }
 .services {
   color: var(--NAVY-BLUE, #2e2f42);
