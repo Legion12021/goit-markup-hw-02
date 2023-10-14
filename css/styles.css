@@ -105,15 +105,15 @@ span {
   line-height: 1.5;
   letter-spacing: 0.64px;
 }
-.Order-service-but:hover,
-.Order-service-but:focus {
+.order-service-but:hover,
+.order-service-but:focus {
   background: var(--OCEAN, #404bbf);
   color: var(--WHITE, #fff);
 }
 
 .advantages-item-2 {
 }
-.h2-advantages {
+.our-advantages {
   color: var(--NAVY-BLUE, #2e2f42);
   font-family: Roboto;
   font-size: 36px;
@@ -123,7 +123,7 @@ span {
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
-.section-3 {
+.our-team-sec {
 }
 .strategy {
   color: var(--NAVY-BLUE, #2e2f42);
